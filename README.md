@@ -1,3 +1,3 @@
-- 🪱 Estou estudando JavaScript e já tenho conhecimentos em HTML e CSS
-- 🦋 À procura de emprego na área de desenvolvimento web com foco em front-end 
+- 🪱 Conhecimentos em HTML, CSS e JavaScript
+- 🦋 À procura de emprego na área de desenvolvimento web com foco em front-end ou QA
 - ✉️ Para entrar em contato comigo: milenatessdantas@gmail.com
