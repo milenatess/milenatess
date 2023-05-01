@@ -1,3 +1,2 @@
-- 🪱 Conhecimentos em HTML, CSS, JavaScript e teste de software
-- 🦋 À procura de emprego na área de quality assurance
-- ✉️ Para entrar em contato comigo: milenatessdantas@gmail.com
+- Conhecimentos em HTML, CSS, JavaScript e teste de software
+✉ Para entrar em contato comigo: milenatessdantas@gmail.com
